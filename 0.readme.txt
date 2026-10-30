@@ -8,6 +8,7 @@ fastapi dev. xxx.py
 
 OR
 uv run fastapi dev xxx.py
+hello world!
 
 
 db.py: utility module for lifespan management and DB connection with connection pools
